@@ -1,0 +1,18 @@
+apiVersion: v2
+name: periodic-table
+description: Interactive periodic table of elements — educational tool
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - periodic-table
+  - chemistry
+  - education
+  - elements
+home: https://noob-codess.github.io/periodic-table
+sources:
+  - https://github.com/noob-codess/periodic-table
+maintainers:
+  - name: noob-codess
+    url: https://github.com/noob-codess
+icon: https://raw.githubusercontent.com/noob-codess/periodic-table/main/docs/icon.png
