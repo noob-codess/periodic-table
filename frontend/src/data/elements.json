@@ -1,0 +1,1926 @@
+[
+  {
+    "number": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomicMass": 1.008,
+    "category": "nonmetal",
+    "electronConfiguration": "1s¹",
+    "valenceElectrons": 1,
+    "description": "Lightest element in the universe",
+    "realWorldUses": [
+      "Fuel",
+      "Water",
+      "Rockets"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomicMass": 4.003,
+    "category": "noble",
+    "electronConfiguration": "1s²",
+    "valenceElectrons": 8,
+    "description": "Second lightest element",
+    "realWorldUses": [
+      "Balloons",
+      "Welding",
+      "Coolant"
+    ],
+    "tags": []
+  },
+  {
+    "number": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "atomicMass": 6.941,
+    "category": "metal",
+    "electronConfiguration": "[He] 2s¹",
+    "valenceElectrons": 1,
+    "description": "Lightest metal",
+    "realWorldUses": [
+      "Batteries",
+      "Medicine",
+      "Alloys"
+    ],
+    "tags": [
+      "phone",
+      "ev"
+    ]
+  },
+  {
+    "number": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "atomicMass": 9.012,
+    "category": "metal",
+    "electronConfiguration": "[He] 2s²",
+    "valenceElectrons": 2,
+    "description": "Hard, light metal",
+    "realWorldUses": [
+      "Aerospace",
+      "Electronics",
+      "Tools"
+    ],
+    "tags": []
+  },
+  {
+    "number": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "atomicMass": 10.811,
+    "category": "metalloid",
+    "electronConfiguration": "[He] 2s² 2p¹",
+    "valenceElectrons": 3,
+    "description": "Essential for plants",
+    "realWorldUses": [
+      "Glass",
+      "Detergent",
+      "Fertilizer"
+    ],
+    "tags": []
+  },
+  {
+    "number": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "atomicMass": 12.011,
+    "category": "nonmetal",
+    "electronConfiguration": "[He] 2s² 2p²",
+    "valenceElectrons": 4,
+    "description": "Foundation of all life",
+    "realWorldUses": [
+      "Diamonds",
+      "Graphite",
+      "Coal"
+    ],
+    "tags": [
+      "body",
+      "daily"
+    ]
+  },
+  {
+    "number": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "atomicMass": 14.007,
+    "category": "nonmetal",
+    "electronConfiguration": "[He] 2s² 2p³",
+    "valenceElectrons": 5,
+    "description": "Essential for proteins",
+    "realWorldUses": [
+      "Fertilizer",
+      "Explosives",
+      "Atmosphere"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "atomicMass": 15.999,
+    "category": "nonmetal",
+    "electronConfiguration": "[He] 2s² 2p⁴",
+    "valenceElectrons": 6,
+    "description": "Essential for respiration",
+    "realWorldUses": [
+      "Breathing",
+      "Water",
+      "Combustion"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "atomicMass": 18.998,
+    "category": "halogen",
+    "electronConfiguration": "[He] 2s² 2p⁵",
+    "valenceElectrons": 7,
+    "description": "Most reactive element",
+    "realWorldUses": [
+      "Toothpaste",
+      "Refrigerants",
+      "Uranium enrichment"
+    ],
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "number": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "atomicMass": 20.18,
+    "category": "noble",
+    "electronConfiguration": "[He] 2s² 2p⁶",
+    "valenceElectrons": 8,
+    "description": "Noble gas, inert",
+    "realWorldUses": [
+      "Lighting",
+      "Signs",
+      "Cryogenics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "atomicMass": 22.99,
+    "category": "metal",
+    "electronConfiguration": "[Ne] 3s¹",
+    "valenceElectrons": 1,
+    "description": "Essential electrolyte",
+    "realWorldUses": [
+      "Salt",
+      "Medicine",
+      "Lamps"
+    ],
+    "tags": [
+      "body",
+      "daily"
+    ]
+  },
+  {
+    "number": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "atomicMass": 24.305,
+    "category": "metal",
+    "electronConfiguration": "[Ne] 3s²",
+    "valenceElectrons": 2,
+    "description": "Essential for muscles",
+    "realWorldUses": [
+      "Alloys",
+      "Medicine",
+      "Fireworks"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 13,
+    "symbol": "Al",
+    "name": "Aluminum",
+    "atomicMass": 26.982,
+    "category": "metal",
+    "electronConfiguration": "[Ne] 3s² 3p¹",
+    "valenceElectrons": 3,
+    "description": "Most abundant metal in crust",
+    "realWorldUses": [
+      "Foil",
+      "Cans",
+      "Aerospace"
+    ],
+    "tags": [
+      "ev",
+      "daily"
+    ]
+  },
+  {
+    "number": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "atomicMass": 28.086,
+    "category": "metalloid",
+    "electronConfiguration": "[Ne] 3s² 3p²",
+    "valenceElectrons": 4,
+    "description": "Second most abundant element",
+    "realWorldUses": [
+      "Semiconductors",
+      "Glass",
+      "Sand"
+    ],
+    "tags": [
+      "phone",
+      "solar",
+      "daily"
+    ]
+  },
+  {
+    "number": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "atomicMass": 30.974,
+    "category": "nonmetal",
+    "electronConfiguration": "[Ne] 3s² 3p³",
+    "valenceElectrons": 5,
+    "description": "Essential for bones",
+    "realWorldUses": [
+      "Fertilizer",
+      "Matches",
+      "Detergent"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "atomicMass": 32.065,
+    "category": "nonmetal",
+    "electronConfiguration": "[Ne] 3s² 3p⁴",
+    "valenceElectrons": 6,
+    "description": "Yellow, smelly element",
+    "realWorldUses": [
+      "Sulfuric acid",
+      "Matches",
+      "Gunpowder"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "atomicMass": 35.453,
+    "category": "halogen",
+    "electronConfiguration": "[Ne] 3s² 3p⁵",
+    "valenceElectrons": 7,
+    "description": "Toxic, reactive gas",
+    "realWorldUses": [
+      "Water treatment",
+      "Bleach",
+      "Plastics"
+    ],
+    "tags": [
+      "body",
+      "daily"
+    ]
+  },
+  {
+    "number": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "atomicMass": 39.948,
+    "category": "noble",
+    "electronConfiguration": "[Ne] 3s² 3p⁶",
+    "valenceElectrons": 8,
+    "description": "Inert, abundant gas",
+    "realWorldUses": [
+      "Welding",
+      "Lamps",
+      "Insulation"
+    ],
+    "tags": []
+  },
+  {
+    "number": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "atomicMass": 39.098,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 4s¹",
+    "valenceElectrons": 1,
+    "description": "Essential for nerve function",
+    "realWorldUses": [
+      "Medicine",
+      "Fertilizer",
+      "Batteries"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "atomicMass": 40.078,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 4s²",
+    "valenceElectrons": 2,
+    "description": "Essential for bones and teeth",
+    "realWorldUses": [
+      "Cement",
+      "Medicine",
+      "Dairy"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "atomicMass": 44.956,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d¹ 4s²",
+    "valenceElectrons": 3,
+    "description": "Rare transition metal",
+    "realWorldUses": [
+      "Aerospace",
+      "Sports equipment",
+      "Lamps"
+    ],
+    "tags": []
+  },
+  {
+    "number": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "atomicMass": 47.867,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d² 4s²",
+    "valenceElectrons": 4,
+    "description": "Strong, lightweight metal",
+    "realWorldUses": [
+      "Aerospace",
+      "Medical implants",
+      "Paint"
+    ],
+    "tags": [
+      "ev"
+    ]
+  },
+  {
+    "number": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "atomicMass": 50.942,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d³ 4s²",
+    "valenceElectrons": 5,
+    "description": "Hard, ductile metal",
+    "realWorldUses": [
+      "Steel",
+      "Catalysts",
+      "Batteries"
+    ],
+    "tags": []
+  },
+  {
+    "number": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "atomicMass": 51.996,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d⁵ 4s¹",
+    "valenceElectrons": 6,
+    "description": "Shiny, corrosion-resistant",
+    "realWorldUses": [
+      "Chrome plating",
+      "Stainless steel",
+      "Dyes"
+    ],
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "number": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "atomicMass": 54.938,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d⁵ 4s²",
+    "valenceElectrons": 7,
+    "description": "Essential trace element",
+    "realWorldUses": [
+      "Steel",
+      "Batteries",
+      "Disinfectant"
+    ],
+    "tags": [
+      "ev"
+    ]
+  },
+  {
+    "number": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "atomicMass": 55.845,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d⁶ 4s²",
+    "valenceElectrons": 2,
+    "description": "Most abundant transition metal",
+    "realWorldUses": [
+      "Steel",
+      "Blood",
+      "Tools"
+    ],
+    "tags": [
+      "body",
+      "daily"
+    ]
+  },
+  {
+    "number": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "atomicMass": 58.933,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d⁷ 4s²",
+    "valenceElectrons": 2,
+    "description": "Hard, ferromagnetic metal",
+    "realWorldUses": [
+      "Magnets",
+      "Batteries",
+      "Pigments"
+    ],
+    "tags": [
+      "phone",
+      "ev"
+    ]
+  },
+  {
+    "number": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "atomicMass": 58.693,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d⁸ 4s²",
+    "valenceElectrons": 2,
+    "description": "Corrosion-resistant metal",
+    "realWorldUses": [
+      "Coins",
+      "Batteries",
+      "Plating"
+    ],
+    "tags": [
+      "ev"
+    ]
+  },
+  {
+    "number": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "atomicMass": 63.546,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s¹",
+    "valenceElectrons": 1,
+    "description": "Excellent conductor",
+    "realWorldUses": [
+      "Wiring",
+      "Plumbing",
+      "Coins"
+    ],
+    "tags": [
+      "ev",
+      "daily"
+    ]
+  },
+  {
+    "number": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "atomicMass": 65.38,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s²",
+    "valenceElectrons": 2,
+    "description": "Essential for immune system",
+    "realWorldUses": [
+      "Galvanizing",
+      "Medicine",
+      "Batteries"
+    ],
+    "tags": [
+      "body",
+      "daily"
+    ]
+  },
+  {
+    "number": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "atomicMass": 69.723,
+    "category": "metal",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p¹",
+    "valenceElectrons": 3,
+    "description": "Low melting point metal",
+    "realWorldUses": [
+      "Semiconductors",
+      "Solar cells",
+      "LED"
+    ],
+    "tags": [
+      "solar"
+    ]
+  },
+  {
+    "number": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "atomicMass": 72.64,
+    "category": "metalloid",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p²",
+    "valenceElectrons": 4,
+    "description": "Semiconductor material",
+    "realWorldUses": [
+      "Transistors",
+      "Fiber optics",
+      "Solar cells"
+    ],
+    "tags": []
+  },
+  {
+    "number": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "atomicMass": 74.922,
+    "category": "metalloid",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p³",
+    "valenceElectrons": 5,
+    "description": "Toxic metalloid",
+    "realWorldUses": [
+      "Semiconductors",
+      "Pesticides",
+      "Preserve wood"
+    ],
+    "tags": []
+  },
+  {
+    "number": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "atomicMass": 78.96,
+    "category": "nonmetal",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁴",
+    "valenceElectrons": 6,
+    "description": "Essential trace element",
+    "realWorldUses": [
+      "Photocopiers",
+      "Supplements",
+      "Glass"
+    ],
+    "tags": []
+  },
+  {
+    "number": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "atomicMass": 79.904,
+    "category": "halogen",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁵",
+    "valenceElectrons": 7,
+    "description": "Liquid halogen at room temp",
+    "realWorldUses": [
+      "Pesticides",
+      "Flame retardants",
+      "Photography"
+    ],
+    "tags": []
+  },
+  {
+    "number": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "atomicMass": 83.798,
+    "category": "noble",
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁶",
+    "valenceElectrons": 8,
+    "description": "Noble gas",
+    "realWorldUses": [
+      "Lighting",
+      "Insulation",
+      "Photography"
+    ],
+    "tags": []
+  },
+  {
+    "number": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "atomicMass": 85.468,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 5s¹",
+    "valenceElectrons": 1,
+    "description": "Highly reactive alkali metal",
+    "realWorldUses": [
+      "Medical imaging",
+      "Atomic clocks",
+      "Lamps"
+    ],
+    "tags": []
+  },
+  {
+    "number": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "atomicMass": 87.62,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 5s²",
+    "valenceElectrons": 2,
+    "description": "Soft, silver-white metal",
+    "realWorldUses": [
+      "Fireworks",
+      "Medicine",
+      "CRT screens"
+    ],
+    "tags": []
+  },
+  {
+    "number": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "atomicMass": 88.906,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹ 5s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Phosphors",
+      "Superconductors",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "atomicMass": 91.224,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d² 5s²",
+    "valenceElectrons": 4,
+    "description": "Corrosion-resistant metal",
+    "realWorldUses": [
+      "Nuclear reactors",
+      "Ceramics",
+      "Jewelry"
+    ],
+    "tags": []
+  },
+  {
+    "number": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "atomicMass": 92.906,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d⁴ 5s¹",
+    "valenceElectrons": 5,
+    "description": "Superconducting metal",
+    "realWorldUses": [
+      "Superconductors",
+      "Alloys",
+      "Electronics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "atomicMass": 95.95,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d⁵ 5s¹",
+    "valenceElectrons": 6,
+    "description": "Hard, refractory metal",
+    "realWorldUses": [
+      "Steel",
+      "Catalysts",
+      "Lubricants"
+    ],
+    "tags": []
+  },
+  {
+    "number": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "atomicMass": 98,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d⁵ 5s²",
+    "valenceElectrons": 7,
+    "description": "First artificially created element",
+    "realWorldUses": [
+      "Medical imaging",
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "atomicMass": 101.07,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d⁷ 5s¹",
+    "valenceElectrons": 8,
+    "description": "Hard, silvery metal",
+    "realWorldUses": [
+      "Catalysts",
+      "Jewelry",
+      "Electronics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "atomicMass": 102.91,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d⁸ 5s¹",
+    "valenceElectrons": 9,
+    "description": "Precious metal",
+    "realWorldUses": [
+      "Catalytic converters",
+      "Jewelry",
+      "Plating"
+    ],
+    "tags": []
+  },
+  {
+    "number": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "atomicMass": 106.42,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹⁰",
+    "valenceElectrons": 10,
+    "description": "Precious transition metal",
+    "realWorldUses": [
+      "Catalytic converters",
+      "Jewelry",
+      "Electronics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "atomicMass": 107.87,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s¹",
+    "valenceElectrons": 1,
+    "description": "Precious metal, excellent conductor",
+    "realWorldUses": [
+      "Jewelry",
+      "Electronics",
+      "Photography"
+    ],
+    "tags": [
+      "precious",
+      "phone"
+    ]
+  },
+  {
+    "number": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "atomicMass": 112.41,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s²",
+    "valenceElectrons": 2,
+    "description": "Toxic, soft metal",
+    "realWorldUses": [
+      "Batteries",
+      "Plating",
+      "Pigments"
+    ],
+    "tags": []
+  },
+  {
+    "number": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "atomicMass": 114.82,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p¹",
+    "valenceElectrons": 3,
+    "description": "Soft, silvery metal",
+    "realWorldUses": [
+      "Semiconductors",
+      "LCD screens",
+      "Alloys"
+    ],
+    "tags": [
+      "phone",
+      "solar"
+    ]
+  },
+  {
+    "number": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "atomicMass": 118.71,
+    "category": "metal",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p²",
+    "valenceElectrons": 4,
+    "description": "Malleable metal",
+    "realWorldUses": [
+      "Solder",
+      "Cans",
+      "Bronze"
+    ],
+    "tags": [
+      "phone",
+      "daily"
+    ]
+  },
+  {
+    "number": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "atomicMass": 121.76,
+    "category": "metalloid",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p³",
+    "valenceElectrons": 5,
+    "description": "Brittle, silvery metalloid",
+    "realWorldUses": [
+      "Flame retardants",
+      "Batteries",
+      "Ceramics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "atomicMass": 127.6,
+    "category": "metalloid",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁴",
+    "valenceElectrons": 6,
+    "description": "Brittle semimetal",
+    "realWorldUses": [
+      "Solar cells",
+      "Alloys",
+      "Rubber"
+    ],
+    "tags": [
+      "solar"
+    ]
+  },
+  {
+    "number": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "atomicMass": 126.9,
+    "category": "halogen",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁵",
+    "valenceElectrons": 7,
+    "description": "Essential for thyroid",
+    "realWorldUses": [
+      "Medicine",
+      "Disinfectant",
+      "Photography"
+    ],
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "number": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "atomicMass": 131.29,
+    "category": "noble",
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁶",
+    "valenceElectrons": 8,
+    "description": "Noble gas",
+    "realWorldUses": [
+      "Lighting",
+      "Anesthetic",
+      "Propellant"
+    ],
+    "tags": []
+  },
+  {
+    "number": 55,
+    "symbol": "Cs",
+    "name": "Cesium",
+    "atomicMass": 132.91,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 6s¹",
+    "valenceElectrons": 1,
+    "description": "Most reactive alkali metal",
+    "realWorldUses": [
+      "Atomic clocks",
+      "Medical imaging",
+      "Lamps"
+    ],
+    "tags": []
+  },
+  {
+    "number": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "atomicMass": 137.33,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 6s²",
+    "valenceElectrons": 2,
+    "description": "Soft, silvery-white metal",
+    "realWorldUses": [
+      "Barium sulfate",
+      "Fireworks",
+      "X-ray"
+    ],
+    "tags": []
+  },
+  {
+    "number": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "atomicMass": 138.91,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 5d¹ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Catalysts",
+      "Lamps",
+      "Batteries"
+    ],
+    "tags": []
+  },
+  {
+    "number": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "atomicMass": 140.12,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹ 5d¹ 6s²",
+    "valenceElectrons": 4,
+    "description": "Most abundant rare earth",
+    "realWorldUses": [
+      "Catalytic converters",
+      "Lamps",
+      "Polishing"
+    ],
+    "tags": []
+  },
+  {
+    "number": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "atomicMass": 140.91,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f³ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Magnets",
+      "Lamps",
+      "Glass"
+    ],
+    "tags": []
+  },
+  {
+    "number": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "atomicMass": 144.24,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁴ 6s²",
+    "valenceElectrons": 3,
+    "description": "Powerful permanent magnets",
+    "realWorldUses": [
+      "Magnets",
+      "Lasers",
+      "Glass coloring"
+    ],
+    "tags": []
+  },
+  {
+    "number": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "atomicMass": 145,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁵ 6s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive rare earth",
+    "realWorldUses": [
+      "Atomic batteries",
+      "Luminous paint"
+    ],
+    "tags": []
+  },
+  {
+    "number": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "atomicMass": 150.36,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁶ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Magnets",
+      "Catalysts",
+      "Medical"
+    ],
+    "tags": []
+  },
+  {
+    "number": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "atomicMass": 151.96,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁷ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Phosphors",
+      "Magnets",
+      "Currency markers"
+    ],
+    "tags": []
+  },
+  {
+    "number": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "atomicMass": 157.25,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁷ 5d¹ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "MRI contrast",
+      "Magnets",
+      "Neutron absorption"
+    ],
+    "tags": []
+  },
+  {
+    "number": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "atomicMass": 158.93,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f⁹ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Phosphors",
+      "Magnets",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "atomicMass": 162.5,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹⁰ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Magnets",
+      "Lasers",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "atomicMass": 164.93,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹¹ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Magnets",
+      "Lasers",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "atomicMass": 167.26,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹² 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Fiber optics",
+      "Lasers",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "atomicMass": 168.93,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹³ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rarest rare earth",
+    "realWorldUses": [
+      "X-ray sources",
+      "Portable lamps"
+    ],
+    "tags": []
+  },
+  {
+    "number": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "atomicMass": 173.05,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹⁴ 6s²",
+    "valenceElectrons": 3,
+    "description": "Rare earth element",
+    "realWorldUses": [
+      "Atomic clocks",
+      "Stress sensors",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "atomicMass": 174.97,
+    "category": "lanthanide",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹ 6s²",
+    "valenceElectrons": 3,
+    "description": "Densest rare earth",
+    "realWorldUses": [
+      "Catalysts",
+      "PET scanners",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "atomicMass": 178.49,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d² 6s²",
+    "valenceElectrons": 4,
+    "description": "Refractory metal",
+    "realWorldUses": [
+      "Nuclear reactors",
+      "Superalloys",
+      "Electronics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "atomicMass": 180.95,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d³ 6s²",
+    "valenceElectrons": 5,
+    "description": "Hard, refractory metal",
+    "realWorldUses": [
+      "Capacitors",
+      "Surgical instruments",
+      "Alloys"
+    ],
+    "tags": []
+  },
+  {
+    "number": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "atomicMass": 183.84,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁴ 6s²",
+    "valenceElectrons": 6,
+    "description": "Highest melting point metal",
+    "realWorldUses": [
+      "Light bulb filaments",
+      "Alloys",
+      "Tools"
+    ],
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "number": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "atomicMass": 186.21,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁵ 6s²",
+    "valenceElectrons": 7,
+    "description": "Dense, refractory metal",
+    "realWorldUses": [
+      "Catalysts",
+      "Superalloys",
+      "Electronics"
+    ],
+    "tags": []
+  },
+  {
+    "number": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "atomicMass": 190.23,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁶ 6s²",
+    "valenceElectrons": 8,
+    "description": "Densest element",
+    "realWorldUses": [
+      "Catalysts",
+      "Alloys",
+      "Electrical contacts"
+    ],
+    "tags": []
+  },
+  {
+    "number": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "atomicMass": 192.22,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁷ 6s²",
+    "valenceElectrons": 9,
+    "description": "Precious, corrosion-resistant",
+    "realWorldUses": [
+      "Spark plugs",
+      "Crucibles",
+      "Medical implants"
+    ],
+    "tags": []
+  },
+  {
+    "number": 78,
+    "symbol": "Pt",
+    "name": "Platinum",
+    "atomicMass": 195.08,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁹ 6s¹",
+    "valenceElectrons": 10,
+    "description": "Most noble metal",
+    "realWorldUses": [
+      "Catalytic converters",
+      "Jewelry",
+      "Medical"
+    ],
+    "tags": [
+      "precious",
+      "ev"
+    ]
+  },
+  {
+    "number": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "atomicMass": 196.97,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s¹",
+    "valenceElectrons": 1,
+    "description": "Most precious metal",
+    "realWorldUses": [
+      "Jewelry",
+      "Electronics",
+      "Medical"
+    ],
+    "tags": [
+      "precious",
+      "phone"
+    ]
+  },
+  {
+    "number": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "atomicMass": 200.59,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+    "valenceElectrons": 2,
+    "description": "Liquid at room temperature",
+    "realWorldUses": [
+      "Thermometers",
+      "Amalgams",
+      "Lamps"
+    ],
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "number": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "atomicMass": 204.38,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹",
+    "valenceElectrons": 3,
+    "description": "Soft, toxic metal",
+    "realWorldUses": [
+      "Optical lenses",
+      "Medical imaging"
+    ],
+    "tags": []
+  },
+  {
+    "number": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "atomicMass": 207.2,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²",
+    "valenceElectrons": 4,
+    "description": "Soft, dense metal",
+    "realWorldUses": [
+      "Batteries",
+      "Radiation shielding",
+      "Solder"
+    ],
+    "tags": [
+      "daily"
+    ]
+  },
+  {
+    "number": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "atomicMass": 208.98,
+    "category": "metal",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+    "valenceElectrons": 5,
+    "description": "Brittle, crystalline metal",
+    "realWorldUses": [
+      "Alloys",
+      "Cosmetics",
+      "Medicine"
+    ],
+    "tags": []
+  },
+  {
+    "number": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "atomicMass": 209,
+    "category": "metalloid",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴",
+    "valenceElectrons": 6,
+    "description": "Radioactive metalloid",
+    "realWorldUses": [
+      "Heat sources",
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "atomicMass": 210,
+    "category": "halogen",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
+    "valenceElectrons": 7,
+    "description": "Rarest natural element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "atomicMass": 222,
+    "category": "noble",
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶",
+    "valenceElectrons": 8,
+    "description": "Radioactive noble gas",
+    "realWorldUses": [
+      "Medical applications",
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "atomicMass": 223,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 7s¹",
+    "valenceElectrons": 1,
+    "description": "Rarest alkali metal",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "atomicMass": 226,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 7s²",
+    "valenceElectrons": 2,
+    "description": "Radioactive alkaline earth",
+    "realWorldUses": [
+      "Luminous paint",
+      "Medical"
+    ],
+    "tags": [
+      "radioactive"
+    ]
+  },
+  {
+    "number": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "atomicMass": 227,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 6d¹ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research",
+      "Medical"
+    ],
+    "tags": []
+  },
+  {
+    "number": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "atomicMass": 232.04,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 6d² 7s²",
+    "valenceElectrons": 4,
+    "description": "Radioactive metal",
+    "realWorldUses": [
+      "Nuclear fuel",
+      "Incandescent mantles",
+      "Welding"
+    ],
+    "tags": [
+      "radioactive"
+    ]
+  },
+  {
+    "number": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "atomicMass": 231.04,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f² 6d¹ 7s²",
+    "valenceElectrons": 5,
+    "description": "Rare radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "atomicMass": 238.03,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f³ 6d¹ 7s²",
+    "valenceElectrons": 6,
+    "description": "Most abundant radioactive element",
+    "realWorldUses": [
+      "Nuclear fuel",
+      "Weapons",
+      "Medical"
+    ],
+    "tags": [
+      "radioactive"
+    ]
+  },
+  {
+    "number": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "atomicMass": 237,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f⁴ 6d¹ 7s²",
+    "valenceElectrons": 6,
+    "description": "First synthetic element",
+    "realWorldUses": [
+      "Research",
+      "Nuclear applications"
+    ],
+    "tags": []
+  },
+  {
+    "number": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "atomicMass": 244,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f⁶ 7s²",
+    "valenceElectrons": 6,
+    "description": "Radioactive fissile element",
+    "realWorldUses": [
+      "Nuclear weapons",
+      "Nuclear power",
+      "Research"
+    ],
+    "tags": [
+      "radioactive"
+    ]
+  },
+  {
+    "number": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "atomicMass": 243,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f⁷ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Smoke detectors",
+      "Medical imaging",
+      "Research"
+    ],
+    "tags": [
+      "radioactive"
+    ]
+  },
+  {
+    "number": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "atomicMass": 247,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f⁷ 6d¹ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Medical imaging",
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "atomicMass": 247,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f⁹ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "atomicMass": 251,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹⁰ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Neutron sources",
+      "Medical",
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "atomicMass": 252,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹¹ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "atomicMass": 257,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹² 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "atomicMass": 258,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹³ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "atomicMass": 259,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹⁴ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "atomicMass": 262,
+    "category": "actinide",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹ 7s²",
+    "valenceElectrons": 3,
+    "description": "Radioactive element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "atomicMass": 267,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d² 7s²",
+    "valenceElectrons": 4,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "atomicMass": 268,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d³ 7s²",
+    "valenceElectrons": 5,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "atomicMass": 269,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁴ 7s²",
+    "valenceElectrons": 6,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "atomicMass": 270,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁵ 7s²",
+    "valenceElectrons": 7,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "atomicMass": 269,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁶ 7s²",
+    "valenceElectrons": 8,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "atomicMass": 278,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁷ 7s²",
+    "valenceElectrons": 9,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "atomicMass": 281,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d⁹ 7s¹",
+    "valenceElectrons": 10,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "atomicMass": 282,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s¹",
+    "valenceElectrons": 11,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "atomicMass": 285,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s²",
+    "valenceElectrons": 12,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "atomicMass": 286,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹",
+    "valenceElectrons": 3,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "atomicMass": 289,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+    "valenceElectrons": 4,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "atomicMass": 290,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+    "valenceElectrons": 5,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "atomicMass": 293,
+    "category": "metal",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+    "valenceElectrons": 6,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "atomicMass": 294,
+    "category": "halogen",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+    "valenceElectrons": 7,
+    "description": "Synthetic superheavy element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  },
+  {
+    "number": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "atomicMass": 294,
+    "category": "noble",
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+    "valenceElectrons": 8,
+    "description": "Newest synthetic element",
+    "realWorldUses": [
+      "Research"
+    ],
+    "tags": []
+  }
+]

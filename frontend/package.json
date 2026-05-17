@@ -1,0 +1,37 @@
+{
+  "name": "periodic-table",
+  "version": "0.1.0",
+  "description": "Interactive periodic table of elements — educational tool with beautiful design",
+  "type": "module",
+  "main": "index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .jsx,.js",
+    "format": "prettier --write \"src/**/*.{jsx,js,css}\""
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.32",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.54.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.1.0"
+  },
+  "keywords": ["periodic-table", "chemistry", "education", "interactive"],
+  "author": "periodic-table contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/periodic-table.git"
+  },
+  "homepage": "https://yourusername.github.io/periodic-table"
+}
